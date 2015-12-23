@@ -1,0 +1,29 @@
+{
+  "name": "indianajs",
+  "homepage": "indianajs.github.io",
+  "authors": [
+    "Andrei Miclaus <miclaus.andrei@gmail.com>"
+  ],
+  "description": "A spatial location and interaction library for Web-of-Things-enabled web sites.",
+  "main": "indiana.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "spatial",
+    "awareness",
+    "web",
+    "of",
+    "things",
+    "location",
+    "interaction"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
