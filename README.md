@@ -50,3 +50,5 @@ We are working to fix this issue by replacing the computation intensive svg fill
 
 ### Authors and Contributors
 Many Thanks to Jack Unseld (@junseld) and Till Riedel (@riedel)
+
+The work (particularly on the screenreader support)  was supported by funding from the European Union’s Seventh Framework Programme for research, technological development and demonstration under [grant agreement no 610510](http://www.prosperity4all.eu). Visit [GPII Developerspace](developerspace.gpii.net) to find more useful accessibility resources.
